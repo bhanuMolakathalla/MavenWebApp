@@ -11,6 +11,7 @@
 <h1>Welcome to Devops Training</h1>
 <img src="http://www.learntek.org/wp-content/uploads/2017/08/jenkins_image.png" alt = "spidertocat" class = "img-responsive center-block" style="width:250px"/>
 <br>
+<h2>Hello</h2>
 <h3>This Web Application is Auto Deployed using jenkins</h3>
 </body>
 </html>
